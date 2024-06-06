@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #4CAF50; /* Green color for the heading */
+    text-align: center; /* Center align the title */
+}
+
+#askSection {
+    display: none;
+}
+
+#responseContainer {
+    margin-top: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#imageContainer {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#imageContainer img {
+    max-width: 500px; /* Adjust the maximum width as needed */
+    max-height: 500px; /* Adjust the maximum height as needed */
+    width: auto;
+    height: auto;
+}
+
+/* Button styles */
+.btn {
+    background-color: #4CAF50; /* Green background */
+    border: none;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
