@@ -3,7 +3,7 @@
 This project is a web application that allows users to upload an image and ask questions about it using an AI model. The application analyzes the image and provides insights based on user queries.
 
 ## Project Structure
-![Figure 2](https://raw.githubusercontent.com/udayaKherath/Generative_AI/edit/main/Get_insights_from_Visuals/ps.png)
+![Figure 2](https://raw.githubusercontent.com/udayaKherath/Generative_AI/main/Get_insights_from_Visuals/ps.png)
 
 
 
