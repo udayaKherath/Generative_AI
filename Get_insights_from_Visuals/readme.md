@@ -3,14 +3,7 @@
 This project is a web application that allows users to upload an image and ask questions about it using an AI model. The application analyzes the image and provides insights based on user queries.
 
 ## Project Structure
-business_intelligence_extractor/
-├── static/
-│   ├── styles.css
-│   └── scripts.js
-├── templates/
-│   └── index.html
-├── app.py
-└── requirements.txt
+![Figure 2](https://raw.githubusercontent.com/udayaKherath/Generative_AI/edit/main/Get_insights_from_Visuals/ps.png)
 
 
 
