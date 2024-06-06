@@ -14,7 +14,7 @@ app.config['SESSION_TYPE'] = 'filesystem'
 Session(app)
 
 # API key setup
-api_key = "AIzaSyBR6kjF1Uy5ayVywZg2LTRBnencS2-ZzYw"
+api_key = ""
 genai.configure(api_key=api_key)
 
 model = genai.GenerativeModel("gemini-1.5-pro")
