@@ -3,7 +3,13 @@
 This project is a web application that allows users to upload an image and ask questions about it using an AI model. The application analyzes the image and provides insights based on user queries.
 
 ## Project Structure
-
+├── app.py # Flask application
+├── templates
+│ └── index.html # HTML file for the main page
+├── static
+│ ├── styles.css # CSS file for styling
+│ └── scripts.js # JavaScript file for client-side logic
+├── README.md # Project documentation
 
 
 
